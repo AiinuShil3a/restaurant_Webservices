@@ -35,7 +35,7 @@
 ![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/d5d07bb3-ed2c-4e2d-9792-1b406d8fbed3)
 #
 <p align="center">
-  <img src="https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/d0e434af-481b-40b7-9b96-8baed277bacd" />
+  <img width="50%" height="50%" src="https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/d0e434af-481b-40b7-9b96-8baed277bacd" />
 </p>
 
 
