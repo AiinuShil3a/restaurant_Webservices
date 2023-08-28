@@ -20,4 +20,8 @@
 - npm install -g nodemon
 
 ### Connect DATABASE
+![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/ae42f381-2a67-4a3d-accd-f0cf98a5c704)
+![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/9e4f1a98-9181-495b-8539-b34631bf9728
+- Run Sever.js to connect your database
+![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/5777ab8c-3d2d-4dd1-b4cc-157f34cf02dd)
 
