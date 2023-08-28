@@ -27,4 +27,11 @@
 - Run Sever.js to connect your database
 ###
 ![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/5777ab8c-3d2d-4dd1-b4cc-157f34cf02dd)
+### When connect your database success!
+![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/3d579a9f-5135-400f-92e5-02c774aceb57)
+#
+- pls open xampp!!! if your can't connect database
+#
+![image](https://github.com/AiinuShil3a/restaurant_Webservices/assets/118444269/d5d07bb3-ed2c-4e2d-9792-1b406d8fbed3)
+
 
